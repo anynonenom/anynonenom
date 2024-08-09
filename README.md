@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hakim
 - 👀 I’m interested in software developpement
-- 🌱 I’m currently learning c++ / python / latex
+- 🌱 I’m currently learning c++ / python / java / latex for Projects
 - 💞️ I’m looking to collaborate on making a team for build or orgnaize project that's recommanded
 - 📫 How to reach me instag:@abdel_hakim_ you will see some sort of drawing (that means it's Me ) or whtssp: +212691422346
 - 😄 Pronouns: English , French , Arabic , Later Chinese one day 
